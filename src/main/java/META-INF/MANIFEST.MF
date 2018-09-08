@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: netty-handler-5.0.0.Alpha2.jar netty-codec-socks-5.0.0.Alp
+ ha2.jar netty-codec-http2-5.0.0.Alpha2.jar netty-transport-5.0.0.Alph
+ a2.jar netty-codec-5.0.0.Alpha2.jar logback-classic-1.0.13.jar npn-ap
+ i-1.1.1.v20141010.jar rxtx-2.1.7.jar javassist-3.19.0-GA.jar netty-re
+ solver-5.0.0.Alpha2.jar metrics-core-2.2.0.jar netty-codec-http-5.0.0
+ .Alpha2.jar netty-transport-rxtx-5.0.0.Alpha2.jar hpack-0.10.1.jar ne
+ tty-codec-memcache-5.0.0.Alpha2.jar netty-transport-sctp-5.0.0.Alpha2
+ .jar jzlib-1.1.2.jar netty-handler-proxy-5.0.0.Alpha2.jar netty-all-5
+ .0.0.Alpha2.jar netty-codec-stomp-5.0.0.Alpha2.jar netty-buffer-5.0.0
+ .Alpha2.jar slf4j-api-1.7.2.jar logback-core-1.0.13.jar protobuf-java
+ -2.5.0.jar barchart-udt-bundle-2.3.0.jar netty-transport-udt-5.0.0.Al
+ pha2.jar netty-common-5.0.0.Alpha2.jar netty-example-5.0.0.Alpha2.jar
+Main-Class: com.ml.CustomProxyStart
+
